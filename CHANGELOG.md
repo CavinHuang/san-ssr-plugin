@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/CavinHuang/san-ssr-plugin/compare/v1.4.1...v1.5.0) (2021-12-20)
+
+
+### Features
+
+* 测试1 ([84b15bc](https://github.com/CavinHuang/san-ssr-plugin/commit/84b15bc572c560f7ddeaa137b7e332737afe83af))
+* 测试1 ([2de03df](https://github.com/CavinHuang/san-ssr-plugin/commit/2de03dff863bf86287f38bd18dc1f542602608fd))
+
 ## [1.4.1](https://github.com/searchfe/san-ssr-plugin/compare/v1.4.0...v1.4.1) (2021-09-10)
 
 
